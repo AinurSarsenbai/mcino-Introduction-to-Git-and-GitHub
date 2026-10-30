@@ -14,3 +14,9 @@ Output
 ```
 
 _© 2022 XYZ, Inc._
+
+
+## Documentation Update
+
+Improved project documentation for the Git and GitHub final assignment.
+
